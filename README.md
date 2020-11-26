@@ -1,4 +1,4 @@
-# Dockerfile Best Practice
+# Dockerfile Best Practices
 This document covers recommended best practices and methods for building efficient images.
 
 ### Languages
