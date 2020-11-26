@@ -1,4 +1,4 @@
-### Contributing to dockerfile-best-practice
+### Contributing to dockerfile-best-practices
 Any pull request will be welcome. Thanks for contributing to this repository. Before you submit your PR, you should take a look at the following steps. 
 Please make sure your pull request is followed the following steps.
 
