@@ -2,7 +2,7 @@
 This document covers recommended best practices and methods for building efficient images.
 
 ### Languages
-* [English](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+* [English](en/README.md)
 * [Persian](fa/README.md)
 
 ### Resources
