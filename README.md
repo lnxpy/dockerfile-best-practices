@@ -1,5 +1,5 @@
 # dockerfile-best-practices
-This document covers recommended best practices and methods for building efficient images.
+This document covers recommended best practices and methods for building efficient Docker images.
 
 ### Languages
 * English - [Official source](https://github.com/docker/docker.github.io/blob/master/develop/develop-images/dockerfile_best-practices.md)
